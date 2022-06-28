@@ -1,0 +1,1 @@
+export const API_SERVER = "http://77.223.101.37:10007/api/v1/";

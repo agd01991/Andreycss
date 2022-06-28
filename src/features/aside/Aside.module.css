@@ -1,0 +1,55 @@
+body {
+    position: relative;
+    width: 1920px;
+    height: 100vh;
+    
+    background: rgba(239, 241, 245, 0.57);
+
+}
+
+.acc {
+    position: absolute;
+    width: 56px;
+    height: 56px;
+    left: 25px;
+    top: 102px;
+    
+
+}
+
+.comp {
+    position: absolute;
+    width: 44px;
+    height: 44px;
+    left: 25px;
+    top: 196px;
+ }
+
+button {
+    background-color: rgba(0, 0, 0, 0);
+    border-style: none;
+}
+
+
+ .exit {
+    position: absolute;
+    width: 37px;
+    height: 37px;
+    left: 34px;
+    top: 977px;
+
+ }
+
+.line {
+     position: absolute;
+width: 105px;
+height: 1080px;
+left: 0px;
+top: 0px;
+
+background: #3F84C5;
+}
+
+ul {
+    list-style: none;
+}

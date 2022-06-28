@@ -1,0 +1,81 @@
+.bankName {
+    position: absolute;
+width: 375px;
+height: 47px;
+left: 385px;
+top: 554px;
+
+background: #FFFFFF;
+border: 2px solid #EFF1F5;
+border-radius: 6px;
+}
+
+.BIK {
+    position: absolute;
+width: 375px;
+height: 47px;
+left: 788px;
+top: 554px;
+
+background: #FFFFFF;
+border: 2px solid #EFF1F5;
+border-radius: 6px;
+}
+
+.corrAcc {
+    position: absolute;
+width: 375px;
+height: 47px;
+left: 1191px;
+top: 554px;
+
+background: #FFFFFF;
+border: 2px solid #EFF1F5;
+border-radius: 6px;
+}
+
+.accNum {
+    position: absolute;
+width: 1181px;
+height: 47px;
+left: 385px;
+top: 637px;
+
+background: #FFFFFF;
+border: 2px solid #EFF1F5;
+border-radius: 6px;
+}
+
+.inn {
+    position: absolute;
+width: 375px;
+height: 47px;
+left: 385px;
+top: 471px;
+
+background: #FFFFFF;
+border: 2px solid #EFF1F5;
+border-radius: 6px;
+}
+
+.update {
+    box-sizing: border-box;
+
+position: absolute;
+width: 216px;
+height: 50px;
+left: 1617px;
+top: 808px;
+
+background: #3F84C5;
+border: 1px solid #D9D9D9;
+border-radius: 10px;
+}
+
+.noCompany {
+    position: absolute;
+width: 216px;
+height: 50px;
+left: 125px;
+top: 84px;
+}
